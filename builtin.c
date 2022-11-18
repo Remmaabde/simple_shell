@@ -165,7 +165,7 @@ int shellby_cd(char **args, char __attribute__((__unused__)) **front)
  * @args: An array of arguments.
  * @front: A pointer to the beginning of args.
  *
- * Return: If an error occurs - -1.
+ * Return: If an error occurs - -1..
  * Otherwise - 0.
  */
 int shellby_help(char **args, char __attribute__((__unused__)) **front)
